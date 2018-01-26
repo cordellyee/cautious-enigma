@@ -1,0 +1,8 @@
+.button-socicon [class^="socicon-"], .button-socicon [class*=" socicon-"] {
+	vertical-align: middle;
+	margin-right: 0.3em;
+}
+
+.pb-10 {
+    padding-bottom: 1em;
+}
